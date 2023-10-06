@@ -33,7 +33,7 @@ of data-driven SED systems. In this paper, we propose an analysis focused on SED
 
 ## Install & Usage
 
-In order to install and use the jupyter notebook, you need to clone the repo, create a virtual environment and install the needed packages.
+In order to run the jupyter notebook, you need to clone the repo, create a virtual environment and install the needed packages.
 
 You can create the virtual environment and install the needed packages using conda with the following command: 
 
