@@ -1,0 +1,13 @@
+#$ conda create --name <env> --file <this file>
+matplotlib=3.7.1=pypi_0
+matplotlib-base=3.7.1=py311h11e8b89_1
+pandas=1.5.3=pypi_0
+pathlib=1.0.1=pyhd3eb1b0_1
+pillow=9.4.0=pypi_0
+pip=23.2.1=pypi_0
+plotly=5.9.0=pypi_0
+pyparsing=3.0.9=pypi_0
+python=3.11.4=hf27a42d_0
+python-dateutil=2.8.2=pyhd3eb1b0_0
+readline=8.2=hca72f7f_0
+sqlite=3.41.2=h6c40b1e_0
