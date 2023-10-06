@@ -1,10 +1,7 @@
 <div align="center">
 
-# Sound Event Detection carbon footprint
+# Performance and Energy Balance: A Comprehensive Study of State-of-the-Art Sound Event Detection Systems
     
-Performance and Energy Balance: A Comprehensive Study of State-of-the-Art Sound Event Detection Systems
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/SED_carbon_footprint/blob/main/Additional_Results.ipynb)
 [![arXiv](https://img.shields.io/badge/arXiv-2310.03455-b31b1b.svg)](https://arxiv.org/abs/2310.03455)
 
 <!-- <img width="700px" src="docs/new-generic-style-transfer-headline.svg"> -->
@@ -44,8 +41,7 @@ You can create the virtual environment and install the needed packages using con
 conda create --name <env> --file requirement.txt
 ```
 
-> [!NOTE]
-> If you run the Jupyter Notebook on Google Colab, there is no need of GPU. You can run the code using the CPU.
+
 
 ## Additional information
 
