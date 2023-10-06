@@ -41,6 +41,8 @@ You can create the virtual environment and install the needed packages using con
 conda create --name <env> --file requirement.txt
 ```
 
+Once everything is installed, you can run the Jupyter Notebook following the instruction reported on it, and reproduce the results. 
+
 
 
 ## Additional information
