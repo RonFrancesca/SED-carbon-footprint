@@ -1,8 +1,7 @@
 <div align="center">
 
 # Performance and Energy Balance: A Comprehensive Study of State-of-the-Art Sound Event Detection Systems
-    
-[![arXiv](https://img.shields.io/badge/arXiv-2310.03455-b31b1b.svg)](https://arxiv.org/abs/2310.03455)
+
 
 <!-- <img width="700px" src="docs/new-generic-style-transfer-headline.svg"> -->
  
@@ -11,6 +10,7 @@
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
 <sup>2</sup> Université de Lorraine, CNRS, Inria, Loria <br>
     
+[![arXiv](https://img.shields.io/badge/arXiv-2310.03455-b31b1b.svg)](https://arxiv.org/abs/2310.03455)
 
 </div>
 
