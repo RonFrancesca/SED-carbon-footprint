@@ -54,13 +54,11 @@ For more details:
 If you use code or comments from this work, please cite our paper:
 
 ```BibTex
-@misc{ronchini2023performance,
-      title={Performance and energy balance: a comprehensive study of state-of-the-art sound event detection systems}, 
-      author={Francesca Ronchini and Romain Serizel},
-      year={2023},
-      eprint={2310.03455},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS}
+@article{ronchini2023performance,
+  title={Performance and energy balance: a comprehensive study of state-of-the-art sound event detection systems},
+  author={Ronchini, Francesca and Serizel, Romain},
+  journal={arXiv preprint arXiv:2310.03455},
+  year={2023}
 }
 ```
 
