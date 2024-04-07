@@ -10,7 +10,7 @@
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
 <sup>2</sup> Université de Lorraine, CNRS, Inria, Loria <br>
     
-[![arXiv](https://img.shields.io/badge/arXiv-2310.03455-b31b1b.svg)](https://arxiv.org/abs/2310.03455)
+[![IEEEXplore](https://img.shields.io/badge/IEEEXplore-10445834-blue.svg)](https://ieeexplore.ieee.org/abstract/document/10445834)
 
 </div>
 
@@ -48,17 +48,19 @@ Once everything is installed, you can run the Jupyter Notebook following the ins
 ## Additional information
 
 For more details:
-"[Performance and energy balance: a comprehensive study of state-of-the-art sound event detection systems](https://arxiv.org/abs/2310.03455)", [Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/), and [Romain Serizel](https://members.loria.fr/RSerizel/) - arXiv, 2023. 
+"[Performance and energy balance: a comprehensive study of state-of-the-art sound event detection systems](https://arxiv.org/abs/2310.03455)", [Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/), and [Romain Serizel](https://members.loria.fr/RSerizel/) - ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024,
 
 
 If you use code or comments from this work, please cite our paper:
 
 ```BibTex
-@article{ronchini2023performance,
+@inproceedings{ronchini2024performance,
   title={Performance and energy balance: a comprehensive study of state-of-the-art sound event detection systems},
   author={Ronchini, Francesca and Serizel, Romain},
-  journal={arXiv preprint arXiv:2310.03455},
-  year={2023}
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1096--1100},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
